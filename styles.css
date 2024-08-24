@@ -1,0 +1,14 @@
+.search-box {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 300px;
+}
+
+#results {
+    margin-top: 20px;
+}
+
+#results p {
+    margin: 5px 0;
+}
